@@ -1,0 +1,23 @@
+{
+    "name": "deepcool/scandiweb4",
+    "description": "Swandiweb junior developer test 4",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ArnVig",
+            "email": "s-word@inbox.lv"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4.33"
+         }
+   }
+}
